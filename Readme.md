@@ -2,8 +2,8 @@ This repository provides a PyTorch implementation and testing scripts for compon
 
 ##  Repository Structure
 
-- **MLA/** *(if present)*: Containing code relating to Multi-Head Latent Attention.
-- **ROPE/** *(if present)*: RoPE implementation module.
+- **MLA/** : Containing code relating to Multi-Head Latent Attention.
+- **ROPE/** : RoPE implementation module.
 - **model.py**: Defines DeepSeek-V3 model architecture in PyTorch.
 - **requirements.txt**: Python dependencies required to run the code.
 - **test_MLA.py**: Test script for verifying MLA implementation.
