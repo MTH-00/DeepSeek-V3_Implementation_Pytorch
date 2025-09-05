@@ -29,6 +29,7 @@ This repository offers an open-source reimplementation of DeepSeek-V3’s key ar
     ```bash
     python test_MLA.py
     python test_ROPE.py
+
 ## Highlights
 
 - **model.py** – Core PyTorch adaptation of DeepSeek-V3 architecture.  
@@ -56,5 +57,6 @@ It introduces several innovations:
 - **Enhanced inference efficiency**  
 
 Trained on ~**14.8 trillion tokens**, DeepSeek-V3 achieves **state-of-the-art performance** on reasoning, math, and coding benchmarks, while maintaining **cost-efficient training**.  
+
 ---
 
